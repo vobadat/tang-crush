@@ -11,7 +11,7 @@ ngủ nhiều
     btnYes: 'Nhiểu quá trời nhiều',
     btnNo: 'Không nhaaa',
     question: Khi nào hết dịch đi chơi với anh nha :3
-    btnReply: Trả lời nè 
+    btnReply : Trả  lời  nè! 
     reply: Okeee, không đi bị kí đầu luôn
     mess: Anh biết kiểu gì cũng đi mà
     messDesc: Nhớ nha, hứa rồi đó
